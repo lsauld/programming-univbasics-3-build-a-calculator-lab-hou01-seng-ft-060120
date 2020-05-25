@@ -20,10 +20,17 @@ def multiplication(num1, num2)
 
 end
 
+<<<<<<< HEAD
 def modulo(num2,num1)
   remainder = num2 % num1
   
   return remainder
+=======
+def modulo(num2, num1)
+  remainder(x mod y) = num2 % num1
+  
+  return  remainder(x mod y)
+>>>>>>> 18b6073fdb8bf8130b99724cb9b191fdd5fb9d2f
   
 end
 
